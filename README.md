@@ -11,7 +11,10 @@
   color: blue 
 }
 ```
+<h1> Projects </h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikk-16&repo=Image-Captioning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/nikk-16/Image-Captioning) 
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikk-16&repo=Mood-Based-Song-Recommendation&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/nikk-16/Mood-Based-Song-Recommendation)
 
 <!--
 **nikk-16/nikk-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
