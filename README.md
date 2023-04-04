@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/nikk-16/profile/blob/main/name.svg" alt="Nikhil Chaurasiya" />
+  <img src="https://github.com/nikk-16/nikk-16/blob/main/name.svg" alt="Nikhil Chaurasiya" />
 </h1>
 
 ```css
