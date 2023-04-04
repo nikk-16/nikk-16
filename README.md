@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/nikk-16/profile/blob/main/name.svg" alt="Nikhil Chaurasiya" />
+</h1>
+
 ### Hi there 👋
 
 <!--
