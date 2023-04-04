@@ -2,7 +2,16 @@
   <img src="https://github.com/nikk-16/profile/blob/main/name.svg" alt="Nikhil Chaurasiya" />
 </h1>
 
-### Hi there 👋
+```css
+#Nikhil { 
+  position: Student@VITB; 
+  height: 178cm; 
+  display: boy; 
+  background: ML developer👨🏻‍💻; 
+  color: blue 
+}
+```
+
 
 <!--
 **nikk-16/nikk-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
