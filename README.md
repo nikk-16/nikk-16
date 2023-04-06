@@ -3,12 +3,11 @@
 </h1>
 
 ```css
-#Nikhil { 
-  position: Student@VITB; 
-  height: 178cm; 
-  display: boy; 
-  background: ML developer👨🏻‍💻; 
-  color: blue 
+# Nikhil { 
+   position: Student@VITB; 
+   interest: Machine Learning;
+   currently working : cloud_computing
+   linkedIn: nikk16
 }
 ```
 <h1> Projects </h1>
