@@ -6,7 +6,7 @@
 # Nikhil { 
    position: Student@VITB; 
    interest: Machine Learning;
-   currently working : cloud_computing
+   currently working : Cloud_computing
    linkedIn: nikk16
 }
 ```
