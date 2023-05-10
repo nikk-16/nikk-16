@@ -30,7 +30,7 @@ An application which solves your day to day problem of what to cook with the ite
 <h1> Leetcode </h1>
 <!-- <a href="https://leetcode.com/nikhilchaurasiya16401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shreyanshagrawal9393/" height="30" width="40" /></a> -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nikhilchaurasiya16401?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikhilchaurasiya16401?ext=heatmap&theme=dark&border=3&radius=20)
 
 ## 📊 &nbsp;Stats
 
