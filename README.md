@@ -6,8 +6,9 @@
 # Nikhil { 
    position: Student@VITB; 
    interest: Machine Learning;
-   currently working : Cloud_computing
-   linkedIn: nikk16
+   worked on: Java SpringBoot;
+   currently learning : Cloud_computing;
+   linkedIn: nikk16;
 }
 ```
 
