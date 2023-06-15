@@ -4,9 +4,9 @@
 
 ```css
 # Nikhil { 
-   position: Student@VITB; 
-   interest: Machine Learning;
-   worked on: Java SpringBoot;
+   position : Student@VITB; 
+   interest : Machine_Learning;
+   worked on : Java_Springboot;
    currently learning : Cloud_computing;
    linkedIn: nikk16;
 }
