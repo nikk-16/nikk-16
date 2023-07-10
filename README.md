@@ -2,12 +2,12 @@
   <img src="https://github.com/nikk-16/nikk-16/blob/main/name.svg" alt="Nikhil Chaurasiya" />
 </h1>
 
-```css
+``` css
 # Nikhil { 
    position : Student@VITB; 
    interest : Machine_Learning;
    worked on : Java_Springboot;
-   currently learning : Cloud_computing;
+   currently learning : Cloud_Computing;
    linkedIn: nikk16;
 }
 ```
@@ -39,6 +39,24 @@ An application which solves your day to day problem of what to cook with the ite
 &nbsp;
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikk-16&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
+## 📫 How to reach me:
+<br>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/nikk16/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/nikhilchaurasiya16401/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/nik.hil16?igshid=OTJhZDVkZWE=" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+
+Thanks for visiting!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikk-16&label=Profile%20views&color=0e75b6&style=flat" alt="anurajshukla" /> </p>
 
 
 <!--
